@@ -1,4 +1,4 @@
-public/js/compiled/
+#public/js/compiled/
 node_modules
 package-lock.json
 .shadow-cljs
