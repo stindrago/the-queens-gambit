@@ -23,7 +23,7 @@
 ## Run
 
 ``` shell
-yarn install
+npm i
 
-yarn watch
+shadow-cljs watch app
 ```
