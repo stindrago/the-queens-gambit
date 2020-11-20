@@ -1,6 +1,6 @@
 /node_modules
 /target
-#/public/js
+/public/js
 .shadow-cljs
 yarn.lock
 package-lock.json
