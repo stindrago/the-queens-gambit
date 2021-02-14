@@ -8,10 +8,11 @@
 
 ## Stack
 
-**Built with**
+**Built with:**
 
 - [Clojurescript](https://clojurescript.org/)
 - [Reagent](https://reagent-project.github.io/) (React Wrapper for Clojurescript)
+- [node](https://nodejs.org/)
 - [shadow-cljs](http://shadow-cljs.org/) (Clojurescript Compiler)
 - [Wing CSS](https://kbrsh.github.io/wing/)
 - [Foundation Icons](https://zurb.com/playground/foundation-icon-fonts-3)
@@ -20,10 +21,16 @@
 
 - [sophiabrandt](https://github.com/sophiabrandt/breaking-bad-quotes)
 
+## [Demo](http://demo.stindrago.com/the-queens-gambit)
+
 ## Run
 
 ``` shell
-npm i
+npm run deps # install dependencies
 
-shadow-cljs watch app
+npm run watch # try it yourself
 ```
+
+## Edit
+
+If you want to add more quotes edit [src/queens_gambit_quotes/quotes.cljs]() file.

@@ -2,5 +2,4 @@
 /target
 /public/js
 .shadow-cljs
-yarn.lock
 package-lock.json
