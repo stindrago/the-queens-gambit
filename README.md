@@ -31,6 +31,8 @@ npm run deps # install dependencies
 npm run watch # try it yourself
 ```
 
-## Edit
+## Configuration
 
 If you want to add more quotes edit [src/queens_gambit_quotes/quotes.cljs](src/queens_gambit_quotes/quotes.cljs).
+
+## [License](./LICENSE)
