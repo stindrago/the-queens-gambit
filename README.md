@@ -21,7 +21,7 @@
 
 - [sophiabrandt](https://github.com/sophiabrandt/breaking-bad-quotes)
 
-## [Demo](http://demo.stindrago.com/the-queens-gambit)
+## [Demo](http://demo.dragoi.me/the-queens-gambit)
 
 ## Run
 
